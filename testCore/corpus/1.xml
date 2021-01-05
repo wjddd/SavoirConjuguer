@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<constrant id="12">
+sdf
+	<const id="11">
+	我是const1
+		<name>
+		我是name1
+		</name>
+	</const>
+	<const>
+	我是const2
+		<name>
+		我是name2
+		</name>
+	</const>
+</constrant>
